@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Mathew a software engineer at Event38. We specialize in PX4/Ardupilot development on fixed wing/Quadplanes and multirotors but we work with rovers and general robotics too! 
+- 👋 Hi, I’m Mathew an engineer at Event38. We specialize in PX4/Ardupilot development on fixed wing/Quadplanes and multirotors but we work with rovers and general robotics too! 
 - 👀 I’m interested in  Robotics, Drones, Making pretty much anything, Environmental/Ethical causes
 - 🌱 I’m currently learning niche things about building large electrical/hybrid aircraft
 - 💞️ I’m looking to collaborate on any Environmental/Ethical projects
